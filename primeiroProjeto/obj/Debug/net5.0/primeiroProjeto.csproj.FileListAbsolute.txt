@@ -1,0 +1,16 @@
+C:\Users\thiag\Documents\Bootcamp Avanade\Projetos\Projeto1\primeiroProjeto\bin\Debug\net5.0\primeiroProjeto.exe
+C:\Users\thiag\Documents\Bootcamp Avanade\Projetos\Projeto1\primeiroProjeto\bin\Debug\net5.0\primeiroProjeto.deps.json
+C:\Users\thiag\Documents\Bootcamp Avanade\Projetos\Projeto1\primeiroProjeto\bin\Debug\net5.0\primeiroProjeto.runtimeconfig.json
+C:\Users\thiag\Documents\Bootcamp Avanade\Projetos\Projeto1\primeiroProjeto\bin\Debug\net5.0\primeiroProjeto.runtimeconfig.dev.json
+C:\Users\thiag\Documents\Bootcamp Avanade\Projetos\Projeto1\primeiroProjeto\bin\Debug\net5.0\primeiroProjeto.dll
+C:\Users\thiag\Documents\Bootcamp Avanade\Projetos\Projeto1\primeiroProjeto\bin\Debug\net5.0\ref\primeiroProjeto.dll
+C:\Users\thiag\Documents\Bootcamp Avanade\Projetos\Projeto1\primeiroProjeto\bin\Debug\net5.0\primeiroProjeto.pdb
+C:\Users\thiag\Documents\Bootcamp Avanade\Projetos\Projeto1\primeiroProjeto\obj\Debug\net5.0\primeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\Bootcamp Avanade\Projetos\Projeto1\primeiroProjeto\obj\Debug\net5.0\primeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Documents\Bootcamp Avanade\Projetos\Projeto1\primeiroProjeto\obj\Debug\net5.0\primeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\Bootcamp Avanade\Projetos\Projeto1\primeiroProjeto\obj\Debug\net5.0\primeiroProjeto.AssemblyInfo.cs
+C:\Users\thiag\Documents\Bootcamp Avanade\Projetos\Projeto1\primeiroProjeto\obj\Debug\net5.0\primeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\Bootcamp Avanade\Projetos\Projeto1\primeiroProjeto\obj\Debug\net5.0\primeiroProjeto.dll
+C:\Users\thiag\Documents\Bootcamp Avanade\Projetos\Projeto1\primeiroProjeto\obj\Debug\net5.0\ref\primeiroProjeto.dll
+C:\Users\thiag\Documents\Bootcamp Avanade\Projetos\Projeto1\primeiroProjeto\obj\Debug\net5.0\primeiroProjeto.pdb
+C:\Users\thiag\Documents\Bootcamp Avanade\Projetos\Projeto1\primeiroProjeto\obj\Debug\net5.0\primeiroProjeto.genruntimeconfig.cache
