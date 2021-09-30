@@ -2,18 +2,18 @@ namespace primeiroProjeto
 {
     public enum genero
     {
-       acao = 1,
-       aventura = 2,
-       comedia = 3,
-       documentario = 4,
-       drama = 5,
-       espionagem = 6,
-       faroeste = 7,
-       fantasia = 8,
-       ficcaoCientifica = 9,
-       musical = 10,
-       romance = 11,
-       suspense = 12,
-       terror = 13
+       Acao = 1,
+       Aventura = 2,
+       Comedia = 3,
+       Documentario = 4,
+       Drama = 5,
+       Espionagem = 6,
+       Faroeste = 7,
+       Fantasia = 8,
+       FiccaoCientifica = 9,
+       Musical = 10,
+       Romance = 11,
+       Suspense = 12,
+       Terror = 13
     }
 }
